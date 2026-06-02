@@ -1,19 +1,18 @@
-title: Development of Visual Representations in Humans + Machines
-description: DVRHM Workshop @ ICDL 2024
+title: DevML
+description: DevML Workshop @ NeurIPS 2026
 
 timezone: US/Eastern
 
 navigation:
-  Overview: "/"
-  Schedule: "/schedule"
-  Speakers: "/speakers"
-  Organizers: "/organizers"
+  Overview: "/devml"
+  Schedule: "/devml/schedule"
+  Speakers: "/devml/speakers"
+  Organizers: "/devml/organizers"
 
 markdown: kramdown
 
 github:
-  repository: https://github.com/ICDL-DVRHM/icdl-dvrhm.github.io
-
+  repository: https://bhavinc.github.io/devml/
 kramdown:
   parse_span_html: true
   parse_block_html: true
